@@ -3,4 +3,5 @@
     <dimen name="txt_size">20sp</dimen>
     <dimen name="smallPadding">8dp</dimen>
     <dimen name="layout_margin">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
 </resources>
